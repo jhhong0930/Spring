@@ -1,7 +1,5 @@
 # URI와 웹 브라우저 요청 흐름
 
----
-
 ### URI(Uniform Resource Identifier)
 
 - Uniform: 리소스를 식별하는 통일된 방식

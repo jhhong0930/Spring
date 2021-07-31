@@ -1,7 +1,5 @@
 # HTTP 기본
 
----
-
 ### HTTP(HyperText Transfer Protocol)
 
 - HTTP 메시지에는 html, text, json, xml, 이미지, 영상, 파일 등 다양한 데이터가 담긴다
